@@ -1,22 +1,19 @@
-## Aboute me:
 <div align="left"
     style="text-decoration: none; font-size: 2vh; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #fff">
-    <li>I'm Leonardo</li>
-    <li>I live in Brazil</li>
-    <li>I'm <a style="color:#fff;">Full Stack</a>  Developer Jr</li>
-    
+    <h1 align="center">Hi 👋, I'm LEONARDO</h1>
+    <h2 align="center">A passionate fullstack developer from Brazil </h2>
+<br /><br />
 </div>
 
-## Languages and Tools:
-| <a href="https://github.com/leonardoqleao/learnReact/tree/reactV2"><img align="center" alt="Leonardo-React" height="30" width="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a> | <img align="center" alt="Leonardo-NodeJs" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /> | <img align="center" alt="Leonardo-JavaScript" height="30" width="30" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" /> | <img align="center" alt="Leonardo-TypeScript" height="30" width="30" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"> | <img align="center" alt="Leonardo-c" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"> | <img align="center" alt="Leonardo-cpp" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"> | <img align="center" alt="Leonardo-csharp" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-| ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- |
+## <h1 align="center"> Languages and Tools: </h1>
+<h1 align="center"><a style="text decoration: none" href="https://github.com/leonardoqleao"><img align="center" alt="Leonardo-React" height="60" width="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />  <img align="center" alt="Leonardo-NodeJs" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />     <img align="center" alt="Leonardo-JavaScript" height="60" width="60" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />     <img align="center" alt="Leonardo-TypeScript" height="60" width="60" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png">    <img align="center" alt="Leonardo-c" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">     <img align="center" alt="Leonardo-cpp" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">     <img align="center" alt="Leonardo-csharp" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">    <img align="center" alt="Leonardo-git" height="60" width="60" src="https://img.icons8.com/color/160/000000/git.png" />   <img align="center" alt="Leonardo-git" height="60" width="60" src="https://img.icons8.com/color/96/000000/debian.png"/> <img align="center" alt="Leonardo-git" height="60" width="60" src="https://img.icons8.com/dusk/160/000000/docker.png" />     <img align="center" alt="Leonardo-git" height="60" width="60" src="https://img.icons8.com/color/160/000000/postgreesql.png" /> <img  align="center" alt="Leonardo-w" height="60" width="60"  src="https://img.icons8.com/office/160/000000/windows-10.png"/> <img  align="center" alt="Leonardo-ps" height="60" width="60" src="https://img.icons8.com/color/150/000000/powershell.png"/> <img  align="center" alt="Leonardo-ps" height="60" width="60" src="https://img.icons8.com/color/144/000000/office-365.png"/></a> </h1> <br/><br/><br/>
 
-| <a href="https://github.com/leonardoqleao"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=leonardoqleao&show_icons=true&theme=calm&hide_border=true" /> | <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoqleao&layout=compact&theme=calm&hide_border=true" /> </a> |
-| ------------- | ------------- |
+<h1 align="center"> <a href="https://github.com/leonardoqleao"><img height="190em" src="https://github-readme-stats.vercel.app/api?username=leonardoqleao&show_icons=true&theme=calm&hide_border=true" />  <br />  <br /> <img height="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoqleao&layout=demo&theme=calm&hide_border=true" /> </a> </h1>
 
-## React Repository:
-| <a href="https://github.com/leonardoqleao/learnReact/tree/reactV2"> <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoqleao&repo=learnreact&lql&theme=buefy" /> </a> |
-| ------------- |
+
+<h1>Some repositores: </h1>
+<h1 align="center"><a  href="https://github.com/leonardoqleao/learnReact/tree/reactV2"> <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoqleao&repo=learnreact&lql&theme=flag-india" />  </a><a  href="https://github.com/leonardoqleao/leonardo/tree/reactV2"> <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoqleao&repo=leonardo&lql&theme=flag-india" />  </a></h1>
+
 
 
 <br />
