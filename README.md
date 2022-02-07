@@ -11,8 +11,6 @@
 <h1 align="center"> <a href="https://github.com/leonardoqleao"><img height="190em" src="https://github-readme-stats.vercel.app/api?username=leonardoqleao&show_icons=true&theme=calm&hide_border=true" />  <br />  <br /> <img height="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoqleao&layout=demo&theme=calm&hide_border=true" /> </a> </h1>
 
 
-<h1>Some repositores: </h1>
-<h1 align="center"><a  href="https://github.com/leonardoqleao/learnReact/tree/reactV2"> <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoqleao&repo=learnreact&lql&theme=flag-india" />  </a><a  href="https://github.com/leonardoqleao/leonardo/tree/reactV2"> <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardoqleao&repo=leonardo&lql&theme=flag-india" />  </a></h1>
 
 
 
