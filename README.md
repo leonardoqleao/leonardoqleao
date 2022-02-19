@@ -13,13 +13,13 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width=360 src="http://github-readme-streak-stats.herokuapp.com/?user=leonardoqleao&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="zumrudu-anka" />
+      <img width=450 src="http://github-readme-streak-stats.herokuapp.com/?user=leonardoqleao&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img width=360 src="https://github-readme-stats.vercel.app/api?username=leonardoqleao&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+      <img width=450 src="https://github-readme-stats.vercel.app/api?username=leonardoqleao&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoqleao&langs_count=8&layout=compact&theme=dracula&hide_border=true" />
