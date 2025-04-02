@@ -9,13 +9,13 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra projetos e contribuiçõe
 
 ## 🛠️ Tecnologias e Stacks:
 
-- **Plataforma .NET**: IIS, ASP.NET, Entity Framework (EF)
-- **Plataforma Java**: NHibernate, Spring Boot, Maven (MVN), JUnit
-- **Banco de Dados**: SQL Server, PostgreSQL, MySQL
-- **Filas**: Kafka, RabbitMQ
-- **Gerenciamento**: Docker, Kubernetes
-- **Front-end**: JavaScript, ReactJS, Angular
-- **Mobile**: Flutter
+- **Plataforma .NET** ⚙️: IIS, ASP.NET, Entity Framework (EF)
+- **Plataforma Java** ☕: NHibernate, Spring Boot, Maven (MVN), JUnit
+- **Banco de Dados** 🗄️: SQL Server, PostgreSQL, MySQL
+- **Filas** 📩: Kafka, RabbitMQ
+- **Infraestrutura e Deploy** 🛠️: Docker, Kubernetes
+- **Front-end** 🎨: JavaScript, ReactJS, Angular
+- **Mobile** 📱: Flutter
 <br >
 ### 🔗 Conecte-se comigo:
 <br>
