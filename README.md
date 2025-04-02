@@ -7,7 +7,7 @@
 </div>
 Bem-vindo ao meu perfil no GitHub! Aqui você encontra projetos e contribuições relacionadas às tecnologias com as quais trabalho.
 
-## 🛠️ Tecnologias e StacksÇ
+## 🛠️ Tecnologias e Stacks:
 
 - **Plataforma .NET**: IIS, ASP.NET, Entity Framework (EF)
 - **Plataforma Java**: NHibernate, Spring Boot, Maven (MVN), JUnit
